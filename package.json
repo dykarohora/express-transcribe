@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/dykarohora/express-transcribe.git",
   "author": "d_yama",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
