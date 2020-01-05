@@ -1,0 +1,9 @@
+{
+  "name": "express-transcribe",
+  "version": "0.1.0",
+  "description": "Transcribe the source code of Express for learning",
+  "main": "index.js",
+  "repository": "https://github.com/dykarohora/express-transcribe.git",
+  "author": "d_yama",
+  "license": "MIT"
+}
