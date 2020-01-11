@@ -6,7 +6,13 @@
   "repository": "https://github.com/dykarohora/express-transcribe.git",
   "author": "d_yama",
   "license": "MIT",
+  "scripts": {
+    "debug": "node ./sample.js"
+  },
   "devDependencies": {
     "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "path-to-regexp": "^6.1.0"
   }
 }
